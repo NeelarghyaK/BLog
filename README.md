@@ -1,2 +1,2 @@
-# BLog
+# DayPost
 None
