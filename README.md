@@ -66,9 +66,9 @@ These instructions assume you have Python and pip installed on your system.
 <summary>Usage
 </summary>
 
-To use DayPost effectively, follow these guidelines:
+To use **DayPost** effectively, follow these guidelines:
 
-1. **Registration**: Start by registering for a new account on DayPost. Provide the necessary details to create your account.
+1. **Registration**: Start by registering for a new account on **DayPost**. Provide the necessary details to create your account.
 
 2. **Login**: After registering, log in to your account using your credentials. DayPost will authenticate your credentials and grant you access to the chat interface.
 
@@ -76,7 +76,7 @@ To use DayPost effectively, follow these guidelines:
 
 4. **Receive Messages**: Messages sent to you will appear in the chat interface.
 
-5. **Log Out**: Log out of your DayPost account when you're done with your chat session to keep your account secure.
+5. **Log Out**: Log out of your account when you're done with your chat session to keep your account secure.
 
 </details>
 
