@@ -1,21 +1,21 @@
 # DayPost
 
 ## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
-
-## Project Overview
+<details markdown="1"> 
+<summary>Project Overview
+</summary>
 
 Built on the Flask framework, DayPost is a real-time messaging application crafted to streamline and enhance swift chat conversations. Its user-friendly interface empowers users to engage in instant messaging effortlessly.
 
 DayPost, powered by Flask, establishes a robust foundation for real-time chat applications. This foundation allows users to concentrate on meaningful conversations with friends, colleagues, or anyone they wish to connect with in real time.
 
 DayPost contains user-centric features, including a secure login/register system, user-following functionality, and a blog posting feature. DayPost is built for real-time communication and simplifies the process of chatting with others.
+</details>
 
-## Installation
+
+<details markdown="1"> 
+<summary>Installation
+</summary>
 
 To get started with DayPost, follow these steps to install and set up the project in your local development environment:
 
@@ -61,8 +61,10 @@ source venv/bin/activate
 - Open your web browser and visit http://localhost:8030 to access DayPost locally. You'll see the DayPost chat interface.
 
 These instructions assume you have Python and pip installed on your system.
-
-## Usage
+</details>
+<details markdown="1"> 
+<summary>Usage
+</summary>
 
 To use DayPost effectively, follow these guidelines:
 
@@ -76,7 +78,11 @@ To use DayPost effectively, follow these guidelines:
 
 5. **Log Out**: Log out of your DayPost account when you're done with your chat session to keep your account secure.
 
+</details>
 
-## Contact
+<details markdown="1"> 
+<summary>Contact
+</summary>
 
 Feel free to drop suggestions at neelarghyak10@gmail.com
+</details>
