@@ -9,7 +9,7 @@ Built on the Flask framework, **DayPost** is a real-time messaging application c
 
 **DayPost**, powered by Flask, establishes a robust foundation for real-time chat applications. This foundation allows users to concentrate on meaningful conversations with friends, colleagues, or anyone they wish to connect with in real time.
 
-**DayPost** contains user-centric features, including a secure login/register system, user-following functionality, and a blog posting feature. **DayPost** is built for real-time communication and simplifies the process of chatting with others.
+**DayPost** contains user-centric features, including a secure login/register system, user-following functionality, and a blog posting feature. It is built for real-time communication and simplifies the process of chatting with others.
 </details>
 
 
